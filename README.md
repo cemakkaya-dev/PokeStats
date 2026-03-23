@@ -29,7 +29,7 @@ A modern, clean, and intuitive iOS application that allows users to search for P
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/Dev-MuTTiNeeR/PokeStats.git
+    git clone https://github.com/cemakkaya-dev/PokeStats.git
     ```
 2.  Open `PokeStats.xcodeproj` in Xcode.
 3.  Press **Cmd + R** to run on the Simulator or your device.
@@ -37,7 +37,7 @@ A modern, clean, and intuitive iOS application that allows users to search for P
 ## 👨‍💻 Author
 
 **Cem Akkaya**
-* **GitHub:** [Dev-MuTTiNeeR](https://github.com/Dev-MuTTiNeeR)
+* **GitHub:** [Dev-MuTTiNeeR](https://github.com/cemakkaya-dev)
 
 ---
 *This project is created for educational purposes and is not affiliated with Pokémon or Nintendo.*
