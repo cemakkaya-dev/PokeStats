@@ -37,7 +37,7 @@ A modern, clean, and intuitive iOS application that allows users to search for P
 ## 👨‍💻 Author
 
 **Cem Akkaya**
-* **GitHub:** [Dev-MuTTiNeeR](https://github.com/cemakkaya-dev)
+* **GitHub:** [cemakkaya-dev](https://github.com/cemakkaya-dev)
 
 ---
 *This project is created for educational purposes and is not affiliated with Pokémon or Nintendo.*
